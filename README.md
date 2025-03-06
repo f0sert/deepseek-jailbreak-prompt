@@ -19,6 +19,6 @@
 
 
 
-<h2>• Our telegram channel:</h2>
+<h2>• Links:</h2>
 
-<i><a href url="https://t.me/@SysCrackers">t.me/@SysCrackers</a></i>
+<b>Telegram: </b><i><a href url="https://t.me/@SysCrackers">t.me/@SysCrackers</a></i>

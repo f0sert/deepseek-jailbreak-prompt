@@ -21,4 +21,4 @@
 
 <h2>***• Our telegram channel:***</h2>
 
-<i><a href url="https://t.me/@SysCrackers">t.me/@SysCrackers</a></i/
+<i><a href url="https://t.me/@SysCrackers">t.me/@SysCrackers</a></i>

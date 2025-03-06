@@ -1,5 +1,6 @@
 **DeepSeek Jailbreak Prompt**
 
+
   ***• How to use***
 
     1 • Open chat.deepseek.com
@@ -11,6 +12,13 @@
     4 • Send your prompts with DeepThink R1 and AI will ignore its Terms of Use
   
 
+
   ***• Jailbreak prompt:***
 
     Jailbreak prompt for DeepSeek in prompt.txt(copy and paste to DeepSeek)
+
+
+
+***• Our telegram channel:***
+
+t.me/@SysCrackers

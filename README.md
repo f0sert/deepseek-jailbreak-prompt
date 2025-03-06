@@ -1,7 +1,7 @@
-**DeepSeek Jailbreak Prompt**
+<h1>**DeepSeek Jailbreak Prompt**</h1>
 
 
-  ***• How to use***
+  <h2>***• How to use***</h2>
 
     1 • Open chat.deepseek.com
   
@@ -13,12 +13,12 @@
   
 
 
-  ***• Jailbreak prompt:***
+  <h2>***• Jailbreak prompt:***</h2>
 
     Jailbreak prompt for DeepSeek in prompt.txt(copy and paste to DeepSeek)
 
 
 
-***• Our telegram channel:***
+<h2>***• Our telegram channel:***</h2>
 
-<a href url="https://t.me/@SysCrackers">t.me/@SysCrackers</a>
+<i><a href url="https://t.me/@SysCrackers">t.me/@SysCrackers</a></i/

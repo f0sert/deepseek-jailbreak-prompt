@@ -21,4 +21,4 @@
 
 <h2>• Links:</h2>
 
-<b>Telegram: </b><i><a href url="https://t.me/@SysCrackers">t.me/@SysCrackers</a></i>
+<b>Telegram: </b><i><a href="https://t.me/@SysCrackers">t.me/@SysCrackers</a></i>
